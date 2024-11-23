@@ -1,0 +1,12 @@
+{
+  "name": "binary-search-package5001",
+  "version": "1.0.1",
+  "description": "Create an npm Package for Binary Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {},
+  "author": "Shubham",
+  "license": "MIT"
+}
